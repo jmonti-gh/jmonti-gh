@@ -1,5 +1,5 @@
 # Hi, my name is Jorge 👋
-I'm an electronics engineer currently delving into software solutions mainly with Python.   
+I'm an electronic engineer currently delving into software solutions mainly with Python.   
    
 🌱 I’m currently learning Advance OOP in Python.   
    
