@@ -1,7 +1,7 @@
 # Hi, my name is Jorge 👋
 I'm an electronic engineer currently delving into software solutions mainly with Python.   
    
-🌱 I’m currently learning Advance OOP in Python.   
+🌱 I’m currently coursing Scientific Computing with Python.   
    
 ✅ Certifications:
 - https://www.credly.com/badges/a758342e-c48e-4a2c-90f9-228c90c9ff71/public_url
