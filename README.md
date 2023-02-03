@@ -4,7 +4,7 @@ I'm an electronic engineer currently delving into software solutions mainly with
 🌱 I’m currently coursing Scientific Computing with Python.   
    
 ✅ Certifications:
-- [PCEP] (https://www.credly.com/badges/a758342e-c48e-4a2c-90f9-228c90c9ff71/public_url)
+- [PCEP] (https://www.credly.com/badges/a758342e-c48e-4a2c-90f9-228c90c9ff71/public_url){:target="_blank"}
 - [PCAP] (https://www.credly.com/badges/bc2341ab-e133-43e5-b260-03aa554f1601/public_url)
 - https://freecodecamp.org/certification/fccf2d338af-f832-43d3-839e-e21718c91b62/relational-database-v8
 - https://www.freecodecamp.org/certification/fccf2d338af-f832-43d3-839e-e21718c91b62/scientific-computing-with-python-v7
