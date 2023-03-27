@@ -1,7 +1,7 @@
-# Hi, my name is Jorge 👋
+# Hi, my name is Jorge Monti 👋
 I'm an electronic engineer currently delving into software solutions mainly with Python.   
    
-🌱 I’m currently coursing Data Analysis with Python.   
+🌱 I’m currently coursing Machine Learning with Python.   
    
 ✅ Certifications:
 - [PCEP & PCAP](https://www.credly.com/users/jorge-l-monti)
