@@ -5,6 +5,7 @@ I'm an electronic engineer currently delving into software solutions mainly with
    
 ✅ Certifications:
 - [PCEP & PCAP](https://www.credly.com/users/jorge-l-monti)
+- <p>fcc: <a href="https://freecodecamp.org/certification/fccf2d338af-f832-43d3-839e-e21718c91b62/relational-database-v8">Relational Database</a></p>
 - <a href="https://freecodecamp.org/certification/fccf2d338af-f832-43d3-839e-e21718c91b62/relational-database-v8" target="_blank">fcc - Relational Database</a>
 - <a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
 - <a href="[https://www.w3schools.com](https://www.freecodecamp.org/certification/fccf2d338af-f832-43d3-839e-e21718c91b62/scientific-computing-with-python-v7)" target="_blank"></a>
